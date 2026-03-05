@@ -33,5 +33,4 @@ public class Leetcode2529 {
         System.out.println(maximumCount(nums));
         
     }
-
 }
