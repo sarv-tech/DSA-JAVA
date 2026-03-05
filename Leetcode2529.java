@@ -19,7 +19,7 @@ public class Leetcode2529 {
 
             else if(nums[i] < 0) {
 
-                neg--;
+                neg++;
             }
         }
 
@@ -33,4 +33,5 @@ public class Leetcode2529 {
         System.out.println(maximumCount(nums));
         
     }
+
 }
